@@ -66,6 +66,7 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  margin: auto;
 }
 
 
@@ -79,6 +80,7 @@ figure > img {
 
 figcaption {
   font-size: $small-font-size;
+	text-align: center;
 }
 
 
